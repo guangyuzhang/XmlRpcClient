@@ -1,0 +1,5 @@
+D:\alarmsms\XMLRPCClient\XMLRPCClient\obj\Debug\ResolveAssemblyReference.cache
+D:\alarmsms\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.dll
+D:\alarmsms\XMLRPCClient\XMLRPCClient\bin\Debug\XMLRPCClient.pdb
+D:\alarmsms\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.dll
+D:\alarmsms\XMLRPCClient\XMLRPCClient\obj\Debug\XMLRPCClient.pdb
